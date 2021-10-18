@@ -1,0 +1,91 @@
+/* ATOMIC CSS BY WEB-E-MAGE v1.0 - 2021 */
+/* IF USING DIFFERENT CSS FOR DIFFERENT BREAKPOINTS,
+   ONLY INCLUDE STYLES THAT WILL BE CONSISTENT ACROSS DEVICES */
+
+/* DISPLAYS */
+.wem-disp-tabl{display:table;}
+.wem-disp-block{display:block;}
+.wem-disp-inl{display:inline;}
+.wem-disp-inlblk{display:inline-block;}
+.wem-disp-nil{display:none;}
+.wem-disp-flex{display:flex;}
+.wem-disp-grid{display:grid;}
+
+/* TEXT & BACKGROUND COLORS */
+.wem-col-black0{color:#000000;}
+.wem-col-white0{color:#ffffff;}
+.wem-col-red0{color:#ff0000;}
+.wem-col-green0{color:#008000;}
+.wem-bg-col-black0{background-color:#000000;}
+.wem-bg-col-white0{background-color:#ffffff;}
+.wem-bg-col-black1{background-color:#111111;}
+.wem-bg-col-black2{background-color:#222222;}
+
+/* CONTENTS ALIGNMENTS */
+.wem-flt-left{float:left;}
+.wem-flt-right{float:right;}
+.wem-txt-left{text-align:left;}
+.wem-txt-right{text-align:right;}
+.wem-txt-center{text-align:center;}
+.wem-txt-just{text-align:justify;}
+.wem-vert-align-mid{vertical-align:middle;}
+.wem-just-cont-rhs{justify-content:flex-end;}
+.wem-just-cont-lhs{justify-content:flex-start;}
+.wem-just-cont-ctr{justify-content:center;}
+.wem-just-cont-spc-arnd{justify-content:space-around;}
+.wem-just-cont-spc-even{justify-content:space-evenly;}
+.wem-just-cont-spc-btw{justify-content:space-between;}
+.wem-align-itm-ctr{align-items:center;}
+.wem-align-self-top{align-self:flex-start;}
+.wem-align-self-bottom{align-self:flex-end;}
+.wem-top-0{top:0;}
+.wem-bottom-0{bottom:0;}
+.wem-left-0{left:0;}
+.wem-right-0{right:0;}
+
+/* SHAPES */
+.wem-shape-circ{border-radius:50%;}
+.wem-shape-round-brd{border-radius:1.5rem;} /*only if root element set to 1vw*/
+
+/* POSITIONS */
+.wem-poz-rel{position:relative;}
+.wem-poz-abs{position:absolute;}
+.wem-poz-stat{position:static;}
+.wem-poz-stick{position:sticky;}
+.wem-poz-fix{position:fixed;}
+
+/* UNSET */
+.wem-unset-list{list-style:none;}
+.wem-unset-txt{text-decoration:none;}
+.wem-unset-border{border:none;}
+.wem-unset-col{color:unset;}
+.wem-unset-ln-ht{line-height:unset}
+.wem-unset-font{font-size:unset;}
+
+/* INITIALISE */
+.wem-init-pad{padding:0;}
+.wem-init-marg{margin:0;}
+.wem-init-font{font-size:0;}
+
+/* Z-INDEX */
+.wem-zind-0{z-index:0;}
+.wem-zind-1{z-index:1;}
+.wem-zind-2{z-index:2;}
+.wem-zind-3{z-index:3;}
+.wem-zind-4{z-index:4;}
+.wem-zind-5{z-index:5;}
+
+/* SIZES */
+.wem-font-8{font-size:8px;}
+.wem-font-12{font-size:12px;}
+.wem-font-16{font-size:16px;}
+.wem-font-20{font-size:20px}
+.wem-width-100{width:100%;}
+.wem-height-100{height:100%;}
+.wem-width-auto{width:auto;}
+.wem-height-auto{height:auto;}
+.wem-overflow-hidden{overflow:hidden;}
+
+/* FLEXBOX */
+.wem-flex-dir-col{flex-direction:column;}
+.wem-flex-dir-row{flex-direction:row;}
